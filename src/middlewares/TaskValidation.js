@@ -14,7 +14,7 @@ const TaskValidation = async (req, res, next) => {
     else if (!title) return res.status(400).json({ error: 'Título é obrigatório' });
     else if (!description) return res.status(400).json({ error: 'Descrição é obrigatória' });
     else if (!when) return res.status(400).json({ error: 'Data e hora são obrigatórias' });
-    else if (isPast(new Date(when))) return res.status(400).json({ error: 'Escolha uma data e hora futura' });
+
     else {
         let exist;
 
@@ -27,7 +27,7 @@ const TaskValidation = async (req, res, next) => {
                         'macaddress': { '$in': macaddress }
                     });
         } else {
-
+            if (isPast(new Date(when))) return res.status(400).json({ error: 'Escolha uma data e hora futura' });
             exist = await TaskModel.
                 findOne(
                     {
