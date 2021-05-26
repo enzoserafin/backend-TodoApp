@@ -115,6 +115,19 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ---
 
+## 🦸 Autor
+
+<a href="https://github.com/enzoserafin">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/60652221?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Enzo Serafin</b></sub></a> <a href="https://github.com/enzoserafin" title="Rocketseat">🚀</a>
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Enzo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-serafin-6b3401143/)](https://www.linkedin.com/in/enzo-serafin-6b3401143/) 
+[![Gmail Badge](https://img.shields.io/badge/-enzoserafin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enzoserafin@gmail.com)](mailto:enzoserafin@gmail.com)
+
+---
+
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
