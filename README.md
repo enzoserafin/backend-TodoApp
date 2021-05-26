@@ -98,7 +98,7 @@ $ npm start
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### [](https://github.com/tgmarinho/Ecoleta#server-nodejs--typescript)**Server**  ([NodeJS](https://nodejs.org/en/))
+#### [](https://github.com/enzoserafin/backend-TodoApp)**Server**  ([NodeJS](https://nodejs.org/en/))
 
 -   **[Express](https://expressjs.com/)**
 -   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
@@ -107,7 +107,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 > Veja o arquivo  [package.json](https://github.com/enzoserafin/backend-TodoApp/blob/master/package.json)
 
-#### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
+#### [](https://github.com/enzoserafin/backend-TodoApp)**Utilitários**
 
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  
 
