@@ -10,7 +10,7 @@
   </a>
 
   <a href="https://github.com/enzoserafin">
-    <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-Enzo Serafin-%237519C1">
+    <img alt="Feito por Enzo Serafin" src="https://img.shields.io/badge/feito%20por-Enzo Serafin-%237519C1">
   </a>
 </p>
 
